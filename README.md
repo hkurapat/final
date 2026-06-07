@@ -2,10 +2,6 @@
 
 ...
 
-## Visit the Project Website
-
-You can explore the full analysis and results on the [Quarto Project Website](http://localhost:5278/).
-
 This repository contains the code and data for a project analyzing the relationship between race, gender, and income using Bayesian regression models. The analysis leverages data from the Adult Census Income dataset to explore how these demographic factors contribute to income disparities. Through this project, we aim to shed light on the significant influence that race and gender have on economic outcomes, providing insights that are crucial for understanding and addressing income inequality.
 
 The project includes a fully reproducible analysis pipeline, with results and visualizations presented on a dedicated Quarto website. The site not only details the methodology but also offers an accessible interpretation of the findings. This README provides a brief overview, while the website offers a more comprehensive look at the analysis and its implications.
